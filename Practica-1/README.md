@@ -1,1 +1,1 @@
-escribe "Práctica 1 - Pendiente"
+Práctica 1 - Pendiente
